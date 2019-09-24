@@ -1,6 +1,6 @@
-#FSwIP-AD1
+# FSwIP-AD1
 
-####1. Desenvolver rotina para importação de um cadastro de produtos e serviços a partir de um arquivo texto
+#### 1. Desenvolver rotina para importação de um cadastro de produtos e serviços a partir de um arquivo texto
 delimitado por tamanho (largura fixa). O arquivo de origem, bem como o arquivo de layout estão na pasta arquivos.
 Premissas:
 	- Deverão ser importados apenas produtos ativos cuja data de cadastro seja posterior a junho de 2002.
@@ -13,7 +13,7 @@ via importação automática.
 produtos importados.
 	- Não utilizar SQL.
 
-####2. Desenvolver rotina para exportar 1 arquivo, em formato DBF/CTREE, com informações do cabeçalho e dos itens de
+#### 2. Desenvolver rotina para exportar 1 arquivo, em formato DBF/CTREE, com informações do cabeçalho e dos itens de
 pedidos de vendas. Requisitos:
 	- Grupo de Perguntas (Pedido De... Pedido Até).
 	- DBF deve conter as seguintes colunas:
@@ -26,7 +26,7 @@ pedidos de vendas. Requisitos:
 		- Quantidades de volumes dos produtos
 	- Não utilizar SQL.
 
-####3. Desenvolver rotina para exportar 3 arquivos, em formato DBF/CTREE, com informações do cabeçalho e dos itens
+#### 3. Desenvolver rotina para exportar 3 arquivos, em formato DBF/CTREE, com informações do cabeçalho e dos itens
 de pedidos de compra. Requisitos:
 	- Grupo de Perguntas (Pedido De... Pedido Até).
 	- DBF/CTREE 01 deve conter as seguintes colunas (cabeçalho):
