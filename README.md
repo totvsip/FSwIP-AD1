@@ -10,6 +10,7 @@ Premissas:
 - Ao final da importação bem-sucedida, a rotina deve apresentar uma mensagem com o número de produtos importados.
 - Não utilizar SQL.
 
+
 #### 2. Desenvolver rotina para exportar 1 arquivo, em formato DBF/CTREE, com informações do cabeçalho e dos itens de pedidos de vendas.
 Requisitos:
 - Grupo de Perguntas (Pedido De... Pedido Até).
@@ -22,6 +23,7 @@ Requisitos:
 	- Preço médio unitário dos itens
 	- Quantidades de volumes dos produtos
 - Não utilizar SQL.
+
 
 #### 3. Desenvolver rotina para exportar 3 arquivos, em formato DBF/CTREE, com informações do cabeçalho e dos itens de pedidos de compra.
 Requisitos:
