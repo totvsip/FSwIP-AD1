@@ -1,0 +1,13 @@
+Campo			Tipo			Pos. Inicial	Tamanho	Tipo Preenchimento	Observação
+---------------------------------------------------------------------------------------------------------------------------------------------
+Código do Produto	Numérico		1		5	Espaço
+Nome do Produto		Alfanumérico		6		50	Espaço
+Data Cadastro		Numérico		56		8	Sem preenchimento	Formato DDMMAAAA
+Inativo			Numérico		64		1	Sem preenchimento	1-Inativo; 0-Ativo
+Pesobruto		Numérico		65		9	Zero
+Comprimento		Numérico		74		9	Zero
+Espeçura		Numérico		83		9	Zero
+Largura			Numérico		92		9	Zero
+Cor			Literal			101		15	Espaço
+Preço			Numérico		116		12	Espaço
+Tipo			Literal			128		1	Sem preenchimento	S - Serviço; P - Produto
