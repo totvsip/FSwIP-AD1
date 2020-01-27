@@ -45,17 +45,15 @@ Requisitos:
 	- Preço unitário do produto
 - Utilizar SQL.
 
-### 4. Desenvolver webservice SOAP para manipulação CRUD do cadastro de produtos (SB1). A estrutura do XML deve conter os campos abaixo, bem como informações de usuário,senha e tipo de operação.
+### 4. Desenvolver web service em ADVPL (tipo SOAP) para manipulação CRUD do cadastro de produtos (SB1). A estrutura do XML deve conter tipo de operação e os campos abaixo.
 
-Informações adicionais
+Informações adicionais:
 - Tipos de Operação
+        - Inclusão de produto
 	- Consulta pelo código do produto
-	- Inclusão de produto
-	- Alteração de produto
-	- Exclusão de produto
-- Informações de atenticação
-	- Usuário
-	- Senha
+	- Alteração pelo código do produto
+	- Exclusão pelo código do produto
+
 - Campos do cadastro de produtos
 	- Código do Produto
 	- Nome do Produto
@@ -68,6 +66,5 @@ Informações adicionais
 	- Cor
 	- Preço
 	- Tipo
-
 
 Tempo máximo para solução dos exercícios: 24 horas.
