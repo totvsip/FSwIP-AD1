@@ -49,7 +49,7 @@ Requisitos:
 
 Informações adicionais:
 - Tipos de Operação
-        - Inclusão de produto
+	- Inclusão de produto
 	- Consulta pelo código do produto
 	- Alteração pelo código do produto
 	- Exclusão pelo código do produto
